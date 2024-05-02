@@ -1,2 +1,4 @@
 Nome: Gabriel Borba Ramos
 CPF : 703.752.896-07
+Idade  21
+Altura: 1,82
