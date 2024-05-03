@@ -3,3 +3,4 @@ CPF : 703.752.896-07
 Idade: 21 anos 
 Altura:1,82
 Raça: Branca
+Cor de Cabelo Loiro
